@@ -4,7 +4,7 @@ Senior Business Analyst with 13+ years in BFSI, focused on tokenization, cross-b
 
 - 🏦 Currently at **BL Technocare**, building AI-enabled business analysis workflows
 - 💳 Previously supported **JPMorgan Chase** (via HTC Global Services) on tokenization and cross-border payments initiatives, including **Project Guardian** — live tokenized JPY and SGD trades
-- 🎓 MBA, IMI New Delhi · B.Tech Computer Science, Kurukshetra University
+- 🎓 MBA, IIPM New Delhi · B.Sc.Mathematics, Kurukshetra University
 - 📜 IBM Business Analyst Professional Certificate · currently pursuing a Generative AI certification from IIT Roorkee
 - 📍 Based in New Delhi, India
 
